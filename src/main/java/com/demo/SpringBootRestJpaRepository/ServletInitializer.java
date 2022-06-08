@@ -1,4 +1,4 @@
-package com.demo.springbootrestjparepositorydemo;
+package com.demo.SpringBootRestJpaRepository;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

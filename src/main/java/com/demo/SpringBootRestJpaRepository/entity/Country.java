@@ -1,4 +1,4 @@
-package com.se.spring.entity;
+package com.demo.SpringBootRestJpaRepository.entity;
 
 import java.util.List;
 import java.util.Set;
